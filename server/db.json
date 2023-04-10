@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "email": "test@mail.com"
+      "email": "foobar@example.com"
     }
   ]
 }
